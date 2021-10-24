@@ -1,0 +1,4115 @@
+add 13
+bloop
+sub 1
+rshift 1
+add 2
+rshift 3
+add 5
+rshift 1
+add 2
+rshift 1
+add 1
+lshift 6
+eloop
+rshift 5
+add 6
+rshift 1
+sub 3
+rshift 10
+add 15
+bloop
+bloop
+rshift 9
+eloop
+add 1
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 8
+bloop
+sub 1
+eloop
+rshift 1
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 8
+bloop
+sub 1
+eloop
+add 1
+lshift 7
+add 5
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 7
+add 1
+rshift 27
+add 1
+lshift 17
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+bloop
+rshift 6
+bloop
+rshift 7
+bloop
+sub 1
+eloop
+rshift 2
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 7
+bloop
+sub 1
+eloop
+add 1
+lshift 6
+add 4
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 6
+add 1
+lshift 6
+add 7
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 6
+add 1
+lshift 16
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+bloop
+sub 1
+eloop
+rshift 6
+bloop
+rshift 7
+bloop
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 2
+add 1
+lshift 3
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 8
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 2
+add 1
+lshift 3
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 7
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 2
+add 1
+lshift 5
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 5
+bloop
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+rshift 2
+add 1
+lshift 4
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 10
+eloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 4
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 6
+bloop
+sub 1
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+rshift 1
+add 1
+lshift 4
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 2
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 11
+eloop
+rshift 2
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 2
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 4
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 4
+bloop
+sub 1
+lshift 36
+add 1
+rshift 36
+eloop
+rshift 5
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+lshift 9
+sub 1
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+rshift 21
+add 1
+lshift 3
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+rshift 1
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 13
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 1
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 12
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+lshift 7
+bloop
+sub 1
+rshift 1
+add 1
+rshift 3
+sub 1
+lshift 4
+eloop
+rshift 9
+add 26
+rshift 2
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 2
+bloop
+sub 1
+eloop
+lshift 2
+eloop
+rshift 2
+bloop
+lshift 7
+add 1
+lshift 1
+bloop
+sub 1
+lshift 1
+add 1
+rshift 4
+add 1
+lshift 2
+bloop
+sub 1
+eloop
+eloop
+rshift 1
+bloop
+sub 1
+lshift 2
+bloop
+sub 1
+rshift 1
+add 1
+rshift 3
+sub 1
+lshift 4
+eloop
+rshift 3
+eloop
+rshift 13
+bloop
+rshift 2
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 5
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+rshift 6
+bloop
+rshift 5
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 2
+bloop
+sub 1
+lshift 9
+add 1
+rshift 9
+eloop
+rshift 7
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 6
+bloop
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+rshift 1
+add 1
+lshift 3
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 10
+eloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 3
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 6
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 4
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 6
+bloop
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+rshift 2
+add 1
+lshift 4
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 10
+eloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 4
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 4
+bloop
+sub 1
+lshift 36
+add 1
+rshift 36
+eloop
+rshift 5
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 3
+bloop
+sub 1
+lshift 36
+add 1
+rshift 36
+eloop
+rshift 6
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+lshift 9
+sub 1
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 8
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 6
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 6
+bloop
+sub 1
+eloop
+rshift 3
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 4
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+lshift 4
+add 1
+rshift 5
+eloop
+rshift 1
+bloop
+sub 1
+lshift 6
+bloop
+sub 1
+rshift 5
+add 1
+lshift 1
+add 2
+lshift 4
+eloop
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 1
+sub 1
+rshift 1
+add 1
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 5
+eloop
+rshift 6
+bloop
+sub 1
+eloop
+lshift 6
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+rshift 5
+bloop
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+rshift 2
+eloop
+add 1
+lshift 2
+bloop
+sub 1
+rshift 2
+sub 1
+rshift 1
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 12
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 1
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 11
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+rshift 5
+bloop
+rshift 1
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 5
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 14
+add 1
+rshift 11
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 14
+add 1
+rshift 11
+eloop
+lshift 2
+eloop
+rshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 14
+add 1
+rshift 11
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 12
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+lshift 4
+eloop
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+rshift 6
+bloop
+rshift 1
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 5
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 14
+add 1
+rshift 10
+bloop
+sub 1
+rshift 4
+add 1
+lshift 4
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 14
+add 1
+rshift 10
+eloop
+lshift 1
+eloop
+rshift 2
+bloop
+sub 1
+rshift 3
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 14
+add 1
+rshift 10
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 4
+eloop
+lshift 11
+eloop
+rshift 6
+add 1
+lshift 6
+eloop
+eloop
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 5
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 14
+add 1
+rshift 11
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 14
+add 1
+rshift 11
+eloop
+lshift 2
+eloop
+rshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 14
+add 1
+rshift 11
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 12
+eloop
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 2
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 5
+bloop
+rshift 2
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 6
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 5
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 5
+bloop
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+rshift 1
+add 1
+lshift 3
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 10
+eloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 3
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 3
+bloop
+sub 1
+lshift 36
+add 1
+rshift 36
+eloop
+rshift 6
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 5
+bloop
+sub 1
+eloop
+rshift 4
+add 15
+bloop
+bloop
+rshift 9
+eloop
+lshift 9
+sub 1
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+rshift 1
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 13
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 1
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 12
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+rshift 6
+bloop
+rshift 1
+add 1
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 1
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+lshift 10
+add 1
+rshift 12
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+lshift 2
+sub 1
+lshift 10
+add 1
+rshift 12
+eloop
+lshift 3
+eloop
+rshift 2
+bloop
+sub 1
+lshift 1
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+lshift 10
+add 1
+rshift 12
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 13
+eloop
+eloop
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+rshift 5
+bloop
+rshift 1
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 1
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+lshift 10
+add 1
+rshift 11
+bloop
+sub 1
+lshift 1
+add 1
+rshift 1
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+lshift 10
+add 1
+rshift 11
+eloop
+lshift 2
+eloop
+rshift 3
+bloop
+sub 1
+lshift 2
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+lshift 10
+add 1
+rshift 11
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+lshift 1
+add 1
+rshift 1
+eloop
+lshift 12
+eloop
+rshift 5
+add 1
+lshift 5
+eloop
+rshift 9
+bloop
+rshift 3
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 4
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 5
+bloop
+rshift 7
+bloop
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 4
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 4
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+lshift 4
+add 1
+rshift 5
+eloop
+rshift 2
+bloop
+sub 1
+lshift 7
+bloop
+sub 1
+rshift 5
+add 1
+lshift 1
+add 2
+lshift 4
+eloop
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 1
+sub 1
+rshift 1
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 5
+eloop
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+rshift 5
+bloop
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 1
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 11
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+rshift 2
+eloop
+add 1
+lshift 2
+bloop
+sub 1
+rshift 2
+sub 1
+rshift 1
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 12
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+rshift 6
+bloop
+rshift 1
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+sub 1
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 2
+bloop
+sub 1
+rshift 2
+sub 1
+lshift 13
+add 1
+rshift 10
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 13
+add 1
+rshift 10
+eloop
+lshift 1
+eloop
+rshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 13
+add 1
+rshift 10
+eloop
+rshift 1
+eloop
+lshift 1
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 11
+eloop
+rshift 5
+bloop
+sub 1
+eloop
+rshift 2
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 2
+add 1
+lshift 5
+eloop
+eloop
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+rshift 5
+bloop
+rshift 1
+add 1
+rshift 2
+bloop
+sub 1
+lshift 2
+sub 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 8
+add 1
+lshift 1
+bloop
+rshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 13
+add 1
+rshift 11
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 2
+sub 1
+lshift 13
+add 1
+rshift 11
+eloop
+lshift 2
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+add 1
+lshift 2
+bloop
+sub 1
+rshift 2
+sub 1
+lshift 13
+add 1
+rshift 11
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 12
+eloop
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+lshift 4
+eloop
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+rshift 1
+bloop
+sub 1
+eloop
+rshift 2
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 2
+add 1
+lshift 5
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+lshift 13
+add 1
+rshift 11
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 2
+sub 1
+lshift 13
+add 1
+rshift 11
+eloop
+lshift 2
+eloop
+rshift 1
+bloop
+sub 1
+rshift 3
+add 1
+lshift 2
+bloop
+sub 1
+rshift 2
+sub 1
+lshift 13
+add 1
+rshift 11
+eloop
+lshift 1
+eloop
+rshift 1
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 12
+eloop
+eloop
+rshift 9
+bloop
+rshift 2
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 6
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 5
+bloop
+rshift 5
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 3
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 6
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 3
+add 1
+lshift 2
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 5
+bloop
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 2
+bloop
+sub 1
+rshift 2
+add 1
+rshift 2
+add 1
+lshift 4
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 10
+eloop
+rshift 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 4
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 1
+sub 1
+rshift 5
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 6
+bloop
+sub 1
+rshift 3
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+rshift 1
+add 1
+lshift 4
+eloop
+add 1
+rshift 9
+eloop
+lshift 8
+bloop
+lshift 9
+eloop
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 2
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 11
+eloop
+rshift 2
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+lshift 2
+add 1
+rshift 8
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 4
+bloop
+sub 1
+lshift 4
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 4
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 3
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 4
+bloop
+sub 1
+lshift 36
+add 1
+rshift 36
+eloop
+rshift 5
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+add 15
+bloop
+bloop
+rshift 9
+eloop
+lshift 9
+sub 1
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+sub 1
+eloop
+add 1
+rshift 21
+add 1
+lshift 3
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 3
+bloop
+sub 1
+lshift 3
+sub 1
+rshift 3
+eloop
+add 1
+lshift 3
+bloop
+sub 1
+rshift 3
+sub 1
+rshift 1
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 13
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 1
+bloop
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 3
+bloop
+sub 1
+rshift 3
+add 1
+lshift 12
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 2
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 4
+add 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 2
+bloop
+sub 1
+eloop
+lshift 2
+eloop
+rshift 2
+eloop
+lshift 2
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+add 1
+lshift 4
+bloop
+sub 1
+rshift 4
+sub 1
+lshift 6
+out
+rshift 2
+eloop
+rshift 4
+bloop
+sub 1
+lshift 7
+out
+rshift 7
+eloop
+lshift 3
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 3
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+rshift 3
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 5
+bloop
+sub 1
+eloop
+rshift 4
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 1
+add 11
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 4
+add 1
+rshift 9
+add 1
+lshift 14
+bloop
+lshift 9
+eloop
+rshift 7
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+bloop
+sub 1
+eloop
+rshift 2
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 7
+bloop
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 7
+bloop
+lshift 9
+eloop
+rshift 7
+bloop
+sub 1
+eloop
+add 1
+rshift 3
+eloop
+lshift 10
+eloop
+eloop
+rshift 7
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+rshift 2
+bloop
+rshift 1
+add 1
+rshift 4
+bloop
+sub 1
+lshift 4
+sub 1
+rshift 4
+eloop
+lshift 4
+bloop
+sub 1
+rshift 4
+add 1
+lshift 4
+eloop
+rshift 8
+eloop
+lshift 2
+add 1
+lshift 7
+bloop
+rshift 5
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 14
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 7
+bloop
+sub 1
+lshift 7
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 7
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 6
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 7
+sub 1
+lshift 4
+bloop
+sub 1
+eloop
+add 1
+lshift 3
+eloop
+add 1
+rshift 7
+bloop
+sub 1
+lshift 7
+sub 1
+rshift 7
+eloop
+add 1
+lshift 7
+bloop
+sub 1
+rshift 7
+sub 1
+rshift 2
+bloop
+rshift 5
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+rshift 4
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 7
+bloop
+sub 1
+lshift 7
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 3
+add 1
+rshift 3
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 7
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 6
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 1
+add 5
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 4
+add 1
+lshift 5
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 5
+bloop
+sub 1
+lshift 5
+sub 1
+rshift 5
+eloop
+add 1
+lshift 5
+bloop
+sub 1
+rshift 5
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 16
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 7
+bloop
+sub 1
+lshift 7
+sub 1
+rshift 7
+eloop
+add 1
+lshift 7
+bloop
+sub 1
+rshift 7
+sub 1
+lshift 2
+bloop
+sub 1
+lshift 5
+add 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 14
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+lshift 3
+add 5
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 4
+sub 1
+lshift 5
+bloop
+lshift 9
+eloop
+eloop
+rshift 3
+eloop
+lshift 4
+out
+rshift 10
+bloop
+rshift 6
+bloop
+sub 1
+eloop
+rshift 3
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 1
+add 10
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 5
+add 1
+rshift 9
+add 1
+lshift 15
+bloop
+lshift 9
+eloop
+rshift 8
+bloop
+sub 1
+lshift 8
+add 1
+rshift 8
+eloop
+lshift 8
+bloop
+sub 1
+rshift 8
+add 1
+bloop
+sub 1
+eloop
+rshift 1
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 8
+bloop
+sub 1
+lshift 7
+add 1
+rshift 7
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 8
+bloop
+lshift 9
+eloop
+rshift 8
+bloop
+sub 1
+eloop
+add 1
+rshift 2
+eloop
+lshift 10
+eloop
+eloop
+rshift 8
+bloop
+sub 1
+lshift 8
+add 1
+rshift 8
+eloop
+lshift 8
+bloop
+sub 1
+rshift 8
+add 1
+rshift 1
+bloop
+rshift 1
+add 1
+rshift 5
+bloop
+sub 1
+lshift 5
+sub 1
+rshift 5
+eloop
+lshift 5
+bloop
+sub 1
+rshift 5
+add 1
+lshift 5
+eloop
+rshift 8
+eloop
+lshift 1
+add 1
+lshift 8
+bloop
+rshift 6
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+lshift 15
+eloop
+rshift 9
+bloop
+rshift 9
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 8
+bloop
+sub 1
+lshift 8
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 7
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 8
+sub 1
+lshift 5
+bloop
+sub 1
+eloop
+add 1
+lshift 3
+eloop
+add 1
+rshift 8
+bloop
+sub 1
+lshift 8
+sub 1
+rshift 8
+eloop
+add 1
+lshift 8
+bloop
+sub 1
+rshift 8
+sub 1
+rshift 1
+bloop
+rshift 6
+bloop
+sub 1
+rshift 2
+add 1
+lshift 2
+eloop
+rshift 3
+eloop
+lshift 9
+bloop
+rshift 1
+bloop
+sub 1
+eloop
+lshift 1
+sub 1
+rshift 8
+bloop
+sub 1
+lshift 8
+add 1
+rshift 1
+bloop
+lshift 1
+sub 1
+rshift 1
+sub 1
+lshift 2
+add 1
+rshift 2
+eloop
+lshift 1
+bloop
+sub 1
+rshift 1
+add 1
+lshift 1
+eloop
+rshift 8
+eloop
+lshift 7
+bloop
+sub 1
+rshift 7
+add 1
+lshift 7
+eloop
+lshift 1
+add 1
+lshift 9
+eloop
+rshift 1
+add 5
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 5
+add 1
+rshift 27
+add 1
+lshift 6
+bloop
+lshift 9
+eloop
+rshift 9
+bloop
+rshift 6
+bloop
+sub 1
+lshift 6
+sub 1
+rshift 6
+eloop
+add 1
+lshift 6
+bloop
+sub 1
+rshift 6
+sub 1
+rshift 2
+bloop
+sub 1
+lshift 8
+add 1
+rshift 8
+eloop
+lshift 8
+bloop
+sub 1
+rshift 8
+add 1
+lshift 17
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+add 1
+rshift 5
+bloop
+rshift 9
+eloop
+rshift 1
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 8
+bloop
+sub 1
+lshift 8
+sub 1
+rshift 8
+eloop
+add 1
+lshift 8
+bloop
+sub 1
+rshift 8
+sub 1
+lshift 2
+bloop
+sub 1
+lshift 6
+add 1
+rshift 6
+eloop
+lshift 6
+bloop
+sub 1
+rshift 6
+add 1
+lshift 15
+bloop
+lshift 9
+eloop
+rshift 3
+bloop
+sub 1
+eloop
+add 1
+rshift 6
+bloop
+rshift 9
+eloop
+rshift 1
+bloop
+sub 1
+eloop
+add 1
+lshift 1
+eloop
+eloop
+add 1
+rshift 1
+bloop
+sub 1
+lshift 1
+bloop
+rshift 9
+eloop
+lshift 8
+eloop
+rshift 8
+eloop
+lshift 9
+bloop
+lshift 9
+eloop
+rshift 4
+bloop
+sub 1
+eloop
+lshift 3
+add 5
+bloop
+sub 1
+bloop
+sub 1
+rshift 9
+add 1
+lshift 9
+eloop
+rshift 9
+eloop
+rshift 5
+sub 1
+rshift 27
+sub 1
+lshift 6
+bloop
+lshift 9
+eloop
+eloop
+rshift 3
+eloop
